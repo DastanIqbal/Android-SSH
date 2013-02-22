@@ -4,3 +4,7 @@
 ************** a simple state-resume SSH client for Android phone **********
 A course project,
 Authors: Moloud Shahbazi, Tuan Dao
+****************************************************************************
+
+
+SSH is a popular application to provide a secure channel for accessing the remote machines. SSH protocol is highly demanded by mobile users as well. But because of the intermittent nature of mobile communication, it needs to be adopted to the resource limitations of this type of users. In this paper, we modify SSH protocol to support data transfer resume and data compression. Our experiments shows the significant improve in amount of data traffic, power consumption and data transfer completion time. We have implemented three layers of ssh protocol, Transport, Authentication and Communication layer for both client and server.
